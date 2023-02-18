@@ -7,6 +7,8 @@ public class Main {
 
         //Nomer 1 =====
 
+        System.out.println("Uang Aji 500000, 200 ribu untuk beli kemeja dengan diskon 50% " );
+
         int jumlahUang = 500000;
         int hargaKemeja = 200000;
         int hargaDiskon = hargaKemeja * 50/100;
@@ -18,6 +20,7 @@ public class Main {
 
         //Nomer 2 =====
 
+        System.out.println("Aji membeli makanan dan 3 orang adiknya" );
         Scanner scan = new Scanner(System.in);
         System.out.println("Masukkan harga makanan : ");
 
